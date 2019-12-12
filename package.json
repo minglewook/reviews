@@ -1,0 +1,19 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "description": "reviews module",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minglewook/reviews.git"
+  },
+  "author": "Emily Meeks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minglewook/reviews/issues"
+  },
+  "homepage": "https://github.com/minglewook/reviews#readme"
+}
